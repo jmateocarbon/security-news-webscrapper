@@ -104,9 +104,9 @@ This is an example of how to list things you need to use the software and how to
 
 Just run the python script and paste the CVE Name
 
-![image](https://user-images.githubusercontent.com/51006392/126951304-3392c18c-16d6-4abc-b0d4-9611e1cc956a.png)
+!![image](https://user-images.githubusercontent.com/51006392/126953408-2a9754ec-7862-423d-92ef-4ddc9663d5e1.png)
 
-A JSON file is also created for that CVE
+A CSV file is also created after scrapping
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -129,7 +129,7 @@ Contributions are what make the open source community such an amazing place to b
 https://www.linkedin.com/in/johnmatthewcarbon/
 
 ## Improvements
-Read a CSV file for multiple CVE checking
+Improvements on Reporting and add CVE and NVD pages.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
